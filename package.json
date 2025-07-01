@@ -1,9 +1,0 @@
-{
-  "name": "my-html-tailwind-site",
-  "scripts": {
-    "build": "npx tailwindcss -i ./input.css -o ./public/styles.css --minify"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.4.17"
-  }
-}
